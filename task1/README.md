@@ -8,7 +8,10 @@
 
 Соберите программу и запустите с URL репозитория
 ```bash
-./task1 https://github.com/username/reponame
+go build -o inforepo
+```
+```bash
+./inforepo https://github.com/username/reponame
 ```
 
 # Вывод
