@@ -8,7 +8,7 @@
 
 Соберите программу и запустите с URL репозитория
 ```bash
-./github-info https://github.com/username/reponame
+./task1 https://github.com/username/reponame
 ```
 
 # Вывод
